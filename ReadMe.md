@@ -1,8 +1,10 @@
 # 👋 About Me
 
-### Hi there! I'm a high school student from Ukraine 🇺🇦 who is passionate about programming and technology.
-### I’m currently in Opole, Poland 🇵🇱, and soon I’ll be moving to Wrocław to start my studies at Wrocław University of Science and Technology in the field of Computer Science / Computer Engineering.
-### I love building things, solving problems, and constantly learning new technologies.
+### Hi there! I'm a high school student from Ukraine 🇺🇦 passionate about programming and technology.  
+### I’m currently in Opole, Poland 🇵🇱, and soon I’ll be moving to Wrocław to start my studies at **Wrocław University of Science and Technology** in **Computer Science / Computer Engineering**.  
+### My dream is to become a **Software Engineer** or **DevOps Engineer** and build a career while living in **Vienna, Austria 🇦🇹**.  
+### I love building things, solving problems, and constantly learning new technologies.  
+
 ---
 
 # 💻 Tech Stack
@@ -29,17 +31,17 @@
 
 # 🌱 Currently Learning
 
-- C# & C++ & C
-- ASP.NET Core (Web API)
-- SQL & database modeling
-- Clean Code principles and design patterns
+- C, C++, C#  
+- ASP.NET Core (Web API)  
+- SQL & database modeling  
+- DevOps practices & cloud technologies  
+- Clean Code principles and design patterns  
 
 ---
 
 # 🎯 Goals
 
-- 🧑‍🎓 Start my journey as a student in Poland
-- 🧑‍💻 Build full-stack projects and contribute to open-source
-- 🚀 Improve as a developer and become a software engineer
-
----
+- 🧑‍🎓 Begin my studies in Poland and grow as a developer  
+- 🧑‍💻 Build full-stack projects and contribute to open-source  
+- 🚀 Become a **Software Engineer** or **DevOps Engineer**  
+- 🌍 Live and work in **Vienna, Austria 🇦🇹**  

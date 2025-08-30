@@ -1,9 +1,8 @@
 # 👋 About Me
 
-Hi there! I'm a high school student from Ukraine 🇺🇦 who is passionate about programming and technology.  
-Soon, I’ll be moving to Poland 🇵🇱 to start my studies at **Wrocław University of Science and Technology** in the field of Computer Science / Computer Engineering  .  
+Hi there! I'm a high school student from Ukraine 🇺🇦 who is passionate about programming and technology.
+I’m currently in Opole, Poland 🇵🇱, and soon I’ll be moving to Wrocław to start my studies at Wrocław University of Science and Technology in the field of Computer Science / Computer Engineering.
 I love building things, solving problems, and constantly learning new technologies.
-
 ---
 
 # 💻 Tech Stack

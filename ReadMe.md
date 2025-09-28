@@ -1,9 +1,33 @@
 # 👋 About Me
 
-### Hi there! I'm a high school student from Ukraine 🇺🇦 passionate about programming and technology.  
-### I’m currently in Opole, Poland 🇵🇱, and soon I’ll be moving to Wrocław to start my studies at **Wrocław University of Science and Technology** in **Computer Science / Computer Engineering**.  
-### My dream is to become a **Software Engineer** or **DevOps Engineer** and build a career while living in **Vienna, Austria 🇦🇹**.  
-### I love building things, solving problems, and constantly learning new technologies.  
+### Hey there!  
+I’m a high school student originally from **Ukraine 🇺🇦**, but now living in **Poland 🇵🇱**.  
+Here I split my time between **studying programming** and enjoying **active outdoor activities**.  
+
+---
+
+## 💻 Passion for Programming
+- I spend most of my free time learning **C#, .NET, ASP.NET Core, and DevOps practices**.  
+- I love exploring how software works under the hood and experimenting with new technologies.  
+- My projects often include **web applications, cloud integration with Azure ☁️, and MVC architecture**.  
+- I'm fascinated by **CI/CD pipelines** and dream of automating every boring task with smart solutions.  
+
+---
+
+## 🎯 Dreams & Goals
+- In the near future, I’m planning to study **Computer Science / Computer Engineering** at  
+  **Wrocław University of Science and Technology 🇵🇱**.  
+- My career path is aimed at becoming a **Software Engineer** or **DevOps Engineer**.  
+- I imagine myself working and living in **Austria 🇦🇹** — one of my big goals.  
+- But my ultimate dream is to live in **Portugal 🇵🇹** 🌴☀️,  
+  because I love the idea of combining coding with the **warm sun, ocean waves, and sandy beaches**.  
+
+---
+
+## 🌟 Fun Fact
+I believe programming is like surfing 🌊:  
+sometimes the wave (a bug 🐞) knocks you down,  
+but once you learn how to ride it, the feeling of solving the problem is amazing! 🚀  
 
 ---
 

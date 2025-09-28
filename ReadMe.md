@@ -24,6 +24,20 @@ Here I split my time between **studying programming** and enjoying **active outd
 
 ---
 
+## 💡 My Languages Journey
+
+For me, **C#** is one of the most innovative and modern programming languages.  
+It inspires me with its flexibility and the way it connects with the **.NET ecosystem**, making development fast and powerful.  
+
+At the same time, I have a lot of respect for the **C family**:  
+- **C** — the foundation of so many technologies we use today.  
+- **C++** — a legendary language that combines performance with endless possibilities.  
+- Together they shaped the way modern programming works, and learning them gives me a deeper understanding of how computers really think.  
+
+Even though my main focus is on C# and cloud development, I enjoy diving into C and C++ because they are like the "roots" of programming — and knowing the roots helps me grow stronger as a developer. 🌱  
+
+---
+
 ## 🌟 Fun Fact
 I believe programming is like surfing 🌊:  
 sometimes the wave (a bug 🐞) knocks you down,  

@@ -63,7 +63,7 @@ but once you learn how to ride it, the feeling of solving the problem is amazing
 
 # 🌱 Currently Learning
 
-- C, C++, C#  
+- C, C++, C#, python
 - ASP.NET Core (Web API)  
 - SQL & database modeling  
 - DevOps practices & cloud technologies  
@@ -75,5 +75,5 @@ but once you learn how to ride it, the feeling of solving the problem is amazing
 
 - 🧑‍🎓 Begin my studies in Poland and grow as a developer  
 - 🧑‍💻 Build full-stack projects and contribute to open-source  
-- 🚀 Become a **Software Engineer** or **DevOps Engineer**  
+- 🚀 Become a **Cloude Engineer** or **DevOps Engineer**  
 - 🌍 Live and work in **Vienna, Austria 🇦🇹**  

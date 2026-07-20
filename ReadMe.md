@@ -1,7 +1,7 @@
 # 👋 About Me
 
 ### Hey there!  
-I’m a high school student originally from **Ukraine 🇺🇦**, but now living in **Poland 🇵🇱**.  
+I’m an university student in **Śląski University of Technology** originally from **Ukraine 🇺🇦**, but now living in **Poland 🇵🇱**.  
 Here I split my time between **studying programming** and enjoying **active outdoor activities**.  
 
 ---
@@ -15,8 +15,6 @@ Here I split my time between **studying programming** and enjoying **active outd
 ---
 
 ## 🎯 Dreams & Goals
-- In the near future, I’m planning to study **Computer Science / Computer Engineering** at  
-  **Śląski University of Science and Technology 🇵🇱**.  
 - My career path is aimed at becoming a **Software Engineer** or **DevOps Engineer**.  
 - I imagine myself working and living in **Austria 🇦🇹** — one of my big goals.  
 - But my ultimate dream is to live in **Portugal 🇵🇹** 🌴☀️,  

@@ -16,7 +16,7 @@ Here I split my time between **studying programming** and enjoying **active outd
 
 ## 🎯 Dreams & Goals
 - In the near future, I’m planning to study **Computer Science / Computer Engineering** at  
-  **Wrocław University of Science and Technology 🇵🇱**.  
+  **Śląski University of Science and Technology 🇵🇱**.  
 - My career path is aimed at becoming a **Software Engineer** or **DevOps Engineer**.  
 - I imagine myself working and living in **Austria 🇦🇹** — one of my big goals.  
 - But my ultimate dream is to live in **Portugal 🇵🇹** 🌴☀️,  

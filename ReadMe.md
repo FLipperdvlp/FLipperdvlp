@@ -57,7 +57,7 @@ Even though my main focus is on C# and cloud development, I enjoy diving into C 
 - C, C++, C#, python
 - ASP.NET Core (Web API)  
 - SQL & database modeling  
-- DevOps practices & cloud technologies  
+- Cloud technologies  
 - Clean Code principles and design patterns  
 
 ---
@@ -66,5 +66,5 @@ Even though my main focus is on C# and cloud development, I enjoy diving into C 
 
 - 🧑‍🎓 Begin my studies in Poland and grow as a developer  
 - 🧑‍💻 Build full-stack projects and contribute to open-source  
-- 🚀 Become a **Cloude Engineer** or **DevOps Engineer**  
+- 🚀 Become a **Cloude Engineer**
 - 🌍 Live and work in **Vienna, Austria 🇦🇹**  

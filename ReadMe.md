@@ -7,7 +7,7 @@ Here I split my time between **studying programming** and enjoying **active outd
 ---
 
 ## 💻 Passion for Programming
-- I spend most of my free time learning **C#, .NET, ASP.NET Core, and DevOps practices**.  
+- I spend most of my free time learning **C#, .NET and ASP.NET Core**.  
 - I love exploring how software works under the hood and experimenting with new technologies.  
 - My projects often include **web applications, cloud integration with Azure ☁️, and MVC architecture**.  
 - I'm fascinated by **CI/CD pipelines** and dream of automating every boring task with smart solutions.  
@@ -33,13 +33,6 @@ At the same time, I have a lot of respect for the **C family**:
 - Together they shaped the way modern programming works, and learning them gives me a deeper understanding of how computers really think.  
 
 Even though my main focus is on C# and cloud development, I enjoy diving into C and C++ because they are like the "roots" of programming — and knowing the roots helps me grow stronger as a developer. 🌱  
-
----
-
-## 🌟 Fun Fact
-I believe programming is like surfing 🌊:  
-sometimes the wave (a bug 🐞) knocks you down,  
-but once you learn how to ride it, the feeling of solving the problem is amazing! 🚀  
 
 ---
 

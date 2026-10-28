@@ -44,11 +44,7 @@ Even though my main focus is on C# and cloud development, I enjoy diving into C 
 
 # 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=FLipperdvlp&theme=tokyonight&hide_border=false)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FLipperdvlp&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-](https://ghstats.dev/api/langs?username=FLipperdvlp&theme=radical&max_langs=9&layout=donut_vertical)
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=FLipperdvlp&theme=tokyonight&border_radius=50)
+![GitHub Streak](https://streak-stats.demolab.com?user=FLipperdvlp&theme=tokyonight&hide_border=false)![GitHub Stats Card](https://ghstats.dev/api/card?username=FLipperdvlp&theme=radical&border_radius=29&size=compact) ![Top Languages](https://ghstats.dev/api/langs?username=FLipperdvlp&theme=radical&max_langs=9&layout=donut)
 
 ---
 

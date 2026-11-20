@@ -50,10 +50,10 @@ Even though my main focus is on C# and cloud development, I enjoy diving into C 
 
 # 🌱 Currently Learning
 
-- C, C++, C#, python
-- ASP.NET Core (Web API)  
-- SQL & database modeling  
-- Cloud technologies  
+- C++, python
+- Computer engineering 
+- Python learning  
+- Microsystems engineering  
 - Clean Code principles and design patterns  
 
 ---

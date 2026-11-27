@@ -45,7 +45,8 @@ Even though my main focus is on C# and cloud development, I enjoy diving into C 
 # 📊 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=FLipperdvlp&theme=tokyonight&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FLipperdvlp&theme=dark&show_icons=true&hide_border=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FLipperdvlp&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 ---
 
 # 🌱 Currently Learning
